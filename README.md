@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EB4FC&height=150&section=header&text=Hi,%20I%27m%20CJH&fontSize=40&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0EB4FC&height=150&section=header&text=Hi,%20I%27m%20CJH&fontSize=50&fontColor=FFFFFF" />
+
+## 🎓 Career
+- **Kookmin Univ**  
+  Computer Science (2024.3 ~)
+  
+- **Pirogramming 22th**  
+  crew (2024.12 ~)
+
+---
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhkchoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
