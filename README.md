@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0eb4fc&height=150&section=header&text=I'm CJH&fontSize=40&fontColor=#0eb4fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=150&section=header&text=Hi,%20I%27m%20CJH&fontSize=40&fontColor=FFFFFF" />
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhkchoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,11 +7,11 @@
 ---
 
 ## 💻 Tech Stack
-### 🔧 Frontend
+### 🧑‍💻 Frontend
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔧 Backend
+### 🩻 Backend
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -19,12 +19,6 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-- 🔍 Exploring cloud computing technologies.
-- 📚 Building full-stack projects with modern frameworks.
 
 ---
 
