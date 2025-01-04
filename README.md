@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome!&fontSize=40&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hi, I'm ChoiJunHyeok&fontSize=40&fontColor=#0eb4fc" />
 
 # 👋 Hello! I'm [junhkchoi](https://github.com/junhkchoi)
 Welcome to my GitHub! I'm passionate about developing robust and scalable applications, exploring new technologies, and collaborating with the developer community.
