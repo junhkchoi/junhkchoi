@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hi&fontSize=40&fontColor=#0eb4fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0eb4fc&height=150&section=header&text=Hi, I'm CJH&fontSize=40&fontColor=#0eb4fc" />
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhkchoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
