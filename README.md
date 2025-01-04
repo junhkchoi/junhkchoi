@@ -5,7 +5,7 @@
   Computer Science (2024.3 ~)
   
 - **Pirogramming 22th**  
-  crew (2024.12 ~)
+  crew (2024.12 ~ 2025.3)
 
 ---
 
