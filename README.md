@@ -36,7 +36,6 @@
 ### 🔥 Featured Repositories
 
 - [🌐 KCC 동아리 홈페이지 제작](https://github.com/junhkchoi/HomePage)  
-  A simple and elegant homepage for KCC using HTML, CSS, and JavaScript.
 ---
 
 ## ☎️ Contact Me
