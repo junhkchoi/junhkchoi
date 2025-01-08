@@ -35,12 +35,8 @@
 ## 📂 Projects
 ### 🔥 Featured Repositories
 
-- [🌐 KCC Homepage Project](https://github.com/junhkchoi/kcc-homepage-project)  
+- [🌐 KCC 동아리 홈페이지 제작](https://github.com/junhkchoi/HomePage)  
   A simple and elegant homepage for KCC using HTML, CSS, and JavaScript.
-
-### 📌 Other Repositories
-- [All Repositories](https://github.com/junhkchoi?tab=repositories)
-
 ---
 
 ## ☎️ Contact Me
