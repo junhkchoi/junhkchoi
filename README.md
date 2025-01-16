@@ -40,7 +40,7 @@
 ---
 
 ## 🏆 Baekjoon Tier
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhkchoi)](https://solved.ac/macadamiia)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=macadamiia)](https://solved.ac/macadamiia)
 
 ---
 
