@@ -36,6 +36,17 @@
 ### 🔥 Featured Repositories
 
 - [🌐 KCC 동아리 홈페이지 제작](https://github.com/junhkchoi/HomePage)  
+
+---
+
+## 🏆 Baekjoon Tier
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhkchoi)](https://solved.ac/macadamiia)
+
+---
+
+## 📝 Blog
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leisure1566)
+
 ---
 
 ## ☎️ Contact Me
