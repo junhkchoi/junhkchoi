@@ -34,10 +34,9 @@
 ---
 
 ## 📂 Projects
-### 🔥 Featured Repositories
 
 - [🌐 KCC 동아리 홈페이지 제작](https://github.com/junhkchoi/HomePage)  
-
+- [👔 코디나우](https://github.com/RRT3333/Cody-Now)
 
 ---
 
