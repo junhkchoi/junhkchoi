@@ -35,13 +35,6 @@
 
 ---
 
-## 📂 프로젝트
-
-- [🌐 KCC 동아리 홈페이지 제작](https://github.com/junhkchoi/HomePage)  
-- [👔 코디나우](https://github.com/RRT3333/Cody-Now)
-
----
-
 ## 📝 블로그
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leisure1566)
 
