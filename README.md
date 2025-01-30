@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EB4FC&height=150&section=header&text=Hi,%20I'm%20CJH&fontSize=50&fontColor=FFFFFF" />
-
 ## 🎓 이력
 - **국민대학교**  
   소프트웨어학부 (2024.3 ~)
