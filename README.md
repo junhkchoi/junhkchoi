@@ -13,6 +13,9 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=macadamiia)](https://solved.ac/macadamiia)
 
 ---
+## 🎯 프로젝트
+
+---
 
 ## 💻 기술 스택
 ### 🧑‍💻 프론트엔드
