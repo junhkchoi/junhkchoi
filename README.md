@@ -8,7 +8,7 @@
 ---
 ## 📝 코딩
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=macadamiia)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=macadamiia&theme=cold)
 ---
 
 ## 📊 스탯
