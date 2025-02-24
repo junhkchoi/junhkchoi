@@ -28,7 +28,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **KCC 체크** | KCC 동아리 부원들의 교육 세션 공지 및 출석체크 관리 플랫폼 | [기획중] |
+| **KCC 체크** | KCC 동아리 부원들의 교육 세션 공지 및 출석체크 관리 플랫폼 | [기획중](https://github.com/junhkchoi/KccCheck) |
 | **코디나우** | Vertex AI를 활용한 개인 맞춤형 코디 추천 서비스 | [완료](https://github.com/pirogramming-project/Cody-Now) |
 ---
 
