@@ -31,6 +31,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **팀구** | 국민대학교 학생들을 위한 프로젝트/스터디 공구 플랫폼 | [기획중](https://github.com/junhkchoi/TeamGu) |
 | **KCC 홈페이지** | 학술동아리 KCC 홈페이지 제작 | [완료](https://github.com/junhkchoi/kcc.git) |
 | **코디나우** | Vertex AI를 활용한 개인 맞춤형 코디 추천 서비스 | [완료](https://github.com/pirogramming-project/Cody-Now) |
 ---
